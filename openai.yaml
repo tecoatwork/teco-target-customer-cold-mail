@@ -1,0 +1,6 @@
+interface:
+  display_name: "teco-target-customer-cold-mail"
+  short_description: "结合客户背调与FABMP价值映射，生成五封针对性的B2B开发信草稿"
+  default_prompt: "Use $teco-target-customer-cold-mail to research my target customer and write five evidence-backed outreach emails using FABMP."
+policy:
+  allow_implicit_invocation: true
